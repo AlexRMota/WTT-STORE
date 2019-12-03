@@ -15,12 +15,18 @@ Produtos.js - listagem dos livros
 
 ### Pasta com os arquivos Header e Footer
 path: src/components/Header
+
 path: src/components/Footer
 
 ### Pasta com os os scripts
 path: public/js
+
 jquery.min.js
+
 nav.js
+
 owl.carousel.js
+
 responsiveslides.min.js
+
 uisearch.js
