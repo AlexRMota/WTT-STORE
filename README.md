@@ -1,10 +1,16 @@
 # Teste para vaga de Frontend
 
+## Documento
+
 ### Pasta com os arquivos principais (Views)
 path: src/components/view
-Livros.js - apresenta o detalhe do livrp
+
+Livros.js - apresenta o detalhe do livro
+
 login.js - tela para efetura o login (link aparece no canto direito superior do header)
+
 Principal.js - tela incial da loja
+
 Produtos.js - listagem dos livros
 
 ### Pasta com os arquivos Header e Footer
