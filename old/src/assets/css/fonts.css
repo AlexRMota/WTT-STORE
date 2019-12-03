@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Gobold2';
+    src: url('../fonts/GoboldBold.woff2') format('woff2'),
+        url('../fonts/GoboldBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}

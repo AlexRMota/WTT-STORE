@@ -1,0 +1,17 @@
+.header-top {background: #ff5400;}
+.logo, .online {background: #2064fd;}
+.header-grid li a {color: #fff;}
+select.in-drop {color: #fff; background:#ff5400;}
+.banner-matter a.find {background: #ff5300;}
+.item a {color:#fff;}
+.item a:hover > .run {background: rgba(255, 255, 255, 0.2);}
+.item a div h1 {font-family:Gobold2;}
+.formLogin div {width: 60%; margin: 30px auto;}
+.formLogin div input {width: 100%!important;}
+.formLogin div input[type="submit"] {width: 30%!important;}
+.compraram {margin-top: 50px;}
+.img-size {width:100%}
+.botao1 {padding: 7px; color: #FFF; background: #ff5400; margin: 1.5em 0 0; font-size: 1.4em; display: block; line-height: 1.6em; width: 32%; text-align: center; text-decoration: none; margin: 70px auto 0px auto;} 
+.botao1:hover {background: #d2232a; color:#fff;}
+.fundoBranco {background: #fff;}
+.espacoEsq {padding-left: 40px;}
